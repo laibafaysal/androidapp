@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253802011828",
+    "project_id": "crochet-tey",
+    "storage_bucket": "crochet-tey.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253802011828:android:2658fc9045ff4bc7538be1",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBopSkC_eqKup3_Iu2jVxbMgErMrPKBdgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
